@@ -1,0 +1,1517 @@
+﻿Log file open, 01/02/21 16:10:33
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DungeonCrawler
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.182214
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.01.02-15.10.33:504][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.01.02-15.10.33:504][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.01.02-15.10.33:504][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.01.02-15.10.33:522][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:522][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.02-15.10.33:523][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.02-15.10.33:523][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.02-15.10.33:524][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.02-15.10.33:524][  0]LogHAL: Display: Platform has ~ 16 GB [17074405376 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.02-15.10.33:524][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.02-15.10.33:524][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.02-15.10.33:524][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Scalability.ini]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.02-15.10.33:525][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Config/Windows/Engine.ini]
+[2021.01.02-15.10.33:525][  0]LogInit: Computer: Z370-G-ITXAC-1
+[2021.01.02-15.10.33:525][  0]LogInit: User: richa
+[2021.01.02-15.10.33:525][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.01.02-15.10.33:525][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.02-15.10.33:525][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.02-15.10.33:525][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.02-15.10.33:525][  0]LogMemory: Process Physical Memory: 140.88 MB used, 140.88 MB peak
+[2021.01.02-15.10.33:525][  0]LogMemory: Process Virtual Memory: 121.32 MB used, 121.32 MB peak
+[2021.01.02-15.10.33:525][  0]LogMemory: Physical Memory: 7129.12 MB used,  9154.30 MB free, 16283.42 MB total
+[2021.01.02-15.10.33:525][  0]LogMemory: Virtual Memory: 134209488.00 MB used,  8236.01 MB free, 134217728.00 MB total
+[2021.01.02-15.10.33:530][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.02-15.10.33:564][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.02-15.10.33:565][  0]LogInit: Using OS detected language (en-US).
+[2021.01.02-15.10.33:565][  0]LogInit: Using OS detected locale (en-SE).
+[2021.01.02-15.10.33:574][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.01.02-15.10.33:719][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.02-15.10.33:727][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.02-15.10.33:760][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.02-15.10.33:760][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.02-15.10.33:869][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.02-15.10.33:869][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.02-15.10.33:869][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.02-15.10.33:869][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.02-15.10.33:962][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.01.02-15.10.33:963][  0]LogD3D11RHI:       8031/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.02-15.10.33:965][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.02-15.10.33:965][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.02-15.10.33:965][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.02-15.10.33:969][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.02-15.10.33:969][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.02-15.10.33:969][  0]LogWindows: EnumDisplayDevices:
+[2021.01.02-15.10.33:969][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2021.01.02-15.10.33:970][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2021.01.02-15.10.33:970][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.01.02-15.10.33:970][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.01.02-15.10.33:970][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.02-15.10.33:970][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.01.02-15.10.33:970][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2021.01.02-15.10.33:970][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2021.01.02-15.10.33:970][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.01.02-15.10.34:036][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.02-15.10.34:036][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.02-15.10.34:036][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.02-15.10.34:051][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.02-15.10.34:052][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.01.02-15.10.34:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.02-15.10.34:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.02-15.10.34:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.02-15.10.34:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.02-15.10.34:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.02-15.10.34:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.02-15.10.34:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.02-15.10.34:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.02-15.10.34:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.02-15.10.34:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.02-15.10.34:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.02-15.10.34:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.02-15.10.34:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.02-15.10.34:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.02-15.10.34:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.02-15.10.34:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.02-15.10.34:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.02-15.10.34:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.02-15.10.34:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.02-15.10.34:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.02-15.10.34:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.02-15.10.34:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.02-15.10.34:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.01.02-15.10.34:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.01.02-15.10.34:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.01.02-15.10.34:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.01.02-15.10.34:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.02-15.10.34:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.02-15.10.34:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.02-15.10.34:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.02-15.10.34:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.02-15.10.34:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.02-15.10.34:448][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.02-15.10.34:454][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.02-15.10.34:500][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.01.02-15.10.34:500][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Intermediate/Shaders/WorkingDirectory/6160/).
+[2021.01.02-15.10.34:500][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/richa/AppData/Local/Temp/UnrealShaderWorkingDir/6AFA0D1247EF5E81A760A9AD9AA7EB02/'.
+[2021.01.02-15.10.34:500][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.02-15.10.34:500][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.02-15.10.35:069][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.02-15.10.35:122][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/richa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.02-15.10.35:122][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/richa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.01.02-15.10.35:122][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.02-15.10.35:122][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.02-15.10.35:122][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.02-15.10.35:122][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.02-15.10.35:131][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.02-15.10.35:131][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.02-15.10.35:131][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.02-15.10.35:141][  0]LogDerivedDataCache: Speed tests for C:/Users/richa/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.01.02-15.10.35:141][  0]LogDerivedDataCache: Display: Performance to C:/Users/richa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=285.29MBs, RandomWriteSpeed=155.91MBs. Assigned SpeedClass 'Local'
+[2021.01.02-15.10.35:142][  0]LogDerivedDataCache: Using Local data cache path C:/Users/richa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.02-15.10.35:142][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.02-15.10.35:142][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.02-15.10.35:177][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.02-15.10.35:177][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.02-15.10.35:196][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.01.02-15.10.35:367][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.02-15.10.35:367][  0]LogInit: Active device profile: [000002ADDFFE1E00][000002ADDCF77640 49] Windows
+[2021.01.02-15.10.35:367][  0]LogInit: Profiles: [000002ADDFFE1E00][000002ADDCF77640 49] Windows, [000002ADDFF9FE00][000002ADDCF73780 49] WindowsNoEditor, [000002ADDFFE3800][000002ADDCF818C0 49] WindowsServer, [000002ADDFF9E100][000002ADDCF85A00 49] WindowsClient, [000002ADDFFE2D00][000002ADDCF8DB80 49] IOS, [000002ADDFF9C900][000002ADDCF91D00 49] iPadAir, [000002ADDFFE3B00][000002ADDCF941C0 49] iPadAir2, [000002ADDF883200][000002ADDCFA2480 49] IPadPro, [000002ADDF883300][000002ADDCF984C0 49] iPadAir3, [000002ADDFFE0200][000002ADDCFAC640 49] iPadAir4, [000002ADDF883500][000002ADDCFB07C0 49] iPadMini2, [000002ADDFFE0E00][000002ADDCFB4940 49] iPadMini3, [000002ADDF881400][000002ADDCFB8AC0 49] iPadMini4, [000002ADDFFE1000][000002ADDCFBCC40 49] iPadMini5, [000002ADDF756B00][000002ADDCFC4F00 49] iPhone6, [000002ADDF756C00][000002ADDCFC0F40 49] iPodTouch6, [000002ADDF883C00][000002ADDCFCD200 49] iPhone7, [000002ADDF883B00][000002ADDCFC9240 49] iPodTouch7, [000002ADDF754E00][000002ADDCFD13C0 49] iPhone5S, [000002ADDF883D00][000002ADDCFD5540 49] iPhone6Plus, [000002ADDF755200][000002ADDCF89680 49] iPhone6S, [000002ADDF882800][000002ADDCFD97C0 49] iPhone6SPlus, [000002ADDF756D00][000002ADDCFDD900 49] iPhone7Plus, [000002ADDF883800][000002ADDCFE1A40 49] iPhoneSE, [000002ADDF757200][000002ADDCFE9BC0 49] iPhone8, [000002ADDF881600][000002ADDCFEDD40 49] iPhone8Plus, [000002ADDF755F00][000002ADDCFF0200 49] iPhoneX, [000002ADDF881D00][000002ADDCFF4380 49] iPhoneXS, [000002ADDF754300][000002ADDCFF8500 49] iPhoneXSMax, [000002ADDF880600][000002ADDCFFC680 49] iPhoneXR, [000002ADDF756500][000002ADDD000800 49] iPhone11, [000002ADDF882500][000002ADDD004980 49] iPhone11Pro, [000002ADDF754600][000002ADDD008B00 49] iPhone11ProMax, [000002ADDF881C00][000002ADDD00CC80 49] iPhoneSE2, [000002ADDF755400][000002ADDD010E00 49] iPhone12Mini, [000002ADDF881100][000002ADDD014F80 49] iPhone12, [000002ADDF757400][000002ADDD019100 49] iPhone12Pro, [000002ADDF880200][000002ADDD01D280 49] iPhone12ProMax, [000002ADDF755B00][000002ADDD021400 49] iPadPro105, [000002ADDF757600][000002ADDD025580 49] iPadPro129, [000002ADDFF9DD00][000002ADDD029700 49] iPadPro97, [000002ADDF754D00][000002ADDCFE5840 49] iPadPro2_129, [000002ADDFF9E400][000002ADDD02D980 49] iPad5, [000002ADDF754500][000002ADDD031AC0 49] iPad6, [000002ADDFF9CB00][000002ADDD039C40 49] iPad7, [000002ADDF757800][000002ADDD03C100 49] iPad8, [000002ADDFF9D200][000002ADDD040280 49] iPadPro11, [000002ADDF757500][000002ADDD044400 49] iPadPro2_11, [000002ADDFF9C700][000002ADDD048580 49] iPadPro3_129, [000002ADDFF9FD00][000002ADDD04C700 49] iPadPro4_129, [000002ADDF883700][000002ADDD050880 49] AppleTV, [000002ADDFF9C300][000002ADDD054A00 49] AppleTV4K, [000002ADDF883400][000002ADDD058B80 49] TVOS, [000002ADDFF9DF00][000002ADDD05CD00 49] Mac, [000002ADDF880100][000002ADDD060E80 49] MacClient, [000002ADDF755A00][000002ADDD065000 49] MacNoEditor, [000002ADDF880D00][000002ADDD069180 49] MacServer, [000002ADDF755D00][000002ADDD06D300 49] Linux, [000002ADDF880F00][000002ADDD071480 49] LinuxNoEditor, [000002ADDF754800][000002ADDD075600 49] LinuxAArch64NoEditor, [000002ADDF882300][000002ADDD079780 49] LinuxClient, [000002ADDF756800][000002ADDD0358C0 49] LinuxAArch64Client, [000002ADDF880C00][000002ADDD07DA00 49] LinuxServer, [000002ADDF757900][000002ADDD081B40 49] LinuxAArch64Server, [000002ADDF880500][000002ADDD089CC0 49] Android, [000002ADDF756F00][000002ADDD08C180 49] Android_Low, [000002ADDF882600][000002ADDD090300 49] Android_Mid, [000002ADDF755000][000002ADDD094480 49] Android_High, [000002ADDF882200][000002ADDD098600 49] Android_Default, [000002ADDF754A00][000002ADDD09C780 49] Android_Adreno4xx, [000002ADDF881700][000002ADDD0A0900 49] Android_Adreno5xx_Low, [000002ADDF754100][000002ADDD0A4A80 49] Android_Adreno5xx, [000002ADDF881000][000002ADDD0A8C00 49] Android_Adreno6xx, [000002ADDF756A00][000002ADDD0ACD80 49] Android_Adreno6xx_Vulkan, [000002ADDF882D00][000002ADDD0B0F00 49] Android_Mali_T6xx, [000002ADDF757300][000002ADDD0B5080 49] Android_Mali_T7xx, [000002ADDF880A00][000002ADDD0B9200 49] Android_Mali_T8xx, [000002ADDF757000][000002ADDD0BD380 49] Android_Mali_G71, [000002ADDF880900][000002ADDD0C1500 49] Android_Mali_G72, [000002ADDF754C00][000002ADDD0C5680 49] Android_Mali_G72_Vulkan, [000002ADDF882700][000002ADDD0C9800 49] Android_Mali_G76, [000002ADDF755700][000002ADDD085940 49] Android_Mali_G76_Vulkan, [000002ADDF880700][000002ADDD0CDA80 49] Android_Mali_G77, [000002ADDF756300][000002ADDD0D1BC0 49] Android_Mali_G77_Vulkan, [000002ADDF882100][000002ADDD0D5D00 49] Android_Vulkan_SM5, [000002ADDF755900][000002ADDD0DC1C0 49] Android_PowerVR_G6xxx, [000002ADDF882400][000002ADDD0E0340 49] Android_PowerVR_GT7xxx, [000002ADDF755500][000002ADDD0E44C0 49] Android_PowerVR_GE8xxx, [000002ADDF882F00][000002ADDD0E8640 49] Android_PowerVR_GM9xxx, [000002ADDF754400][000002ADDD0EC7C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002ADDF881900][000002ADDD0F0940 49] Android_TegraK1, [000002ADDF756400][000002ADDD0F4AC0 49] Android_Unknown_Vulkan, [000002ADDF882B00][000002ADDD0F8C40 49] Lumin, [000002ADDF754200][000002ADDD0FCDC0 49] Lumin_Desktop, [000002ADDF881800][000002ADDD100F40 49] HoloLens, 
+[2021.01.02-15.10.35:449][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.02-15.10.35:449][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.02-15.10.35:449][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.02-15.10.35:449][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.02-15.10.35:449][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.02-15.10.35:475][  0]LogNetVersion: DungeonCrawler 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 51160509)
+[2021.01.02-15.10.35:800][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.01.02-15.10.35:842][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.041099 seconds
+[2021.01.02-15.10.35:846][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.01.02-15.10.35:846][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.01.02-15.10.35:846][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.02-15.10.38:157][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.02-15.10.38:160][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.02-15.10.38:210][  0]LogSteamShared: Display: Loading Steam SDK 1.47
+[2021.01.02-15.10.38:213][  0]LogSteamShared: Steam SDK Loaded!
+[2021.01.02-15.10.38:245][  0]SourceControl: Source control is disabled
+[2021.01.02-15.10.38:245][  0]SourceControl: Source control is disabled
+[2021.01.02-15.10.38:247][  0]SourceControl: Source control is disabled
+[2021.01.02-15.10.38:254][  0]SourceControl: Source control is disabled
+[2021.01.02-15.10.38:256][  0]LogUProjectInfo: Found projects:
+[2021.01.02-15.10.38:261][  0]SourceControl: Source control is disabled
+[2021.01.02-15.10.38:428][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.02-15.10.38:439][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.02-15.10.38:439][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.02-15.10.38:491][  0]LogCollectionManager: Loaded 0 collections in 0.001258 seconds
+[2021.01.02-15.10.38:508][  0]LogFileCache: Scanning file cache for directory 'C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Collections/' took 0.00s
+[2021.01.02-15.10.38:508][  0]LogFileCache: Scanning file cache for directory 'C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/Developers/richa/Collections/' took 0.00s
+[2021.01.02-15.10.38:508][  0]LogFileCache: Scanning file cache for directory 'C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/Collections/' took 0.00s
+[2021.01.02-15.10.38:508][  0]LogOcInput: OculusInput pre-init called
+[2021.01.02-15.10.38:517][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.02-15.10.38:518][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.02-15.10.38:555][  0]LogEngine: Initializing Engine...
+[2021.01.02-15.10.38:555][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.02-15.10.38:555][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.02-15.10.38:556][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.02-15.10.38:647][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.02-15.10.38:653][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.02-15.10.38:667][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.02-15.10.38:671][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.02-15.10.38:671][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.02-15.10.38:671][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.02-15.10.38:671][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.02-15.10.38:671][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.02-15.10.38:671][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.02-15.10.38:671][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.02-15.10.38:671][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.02-15.10.38:671][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.02-15.10.38:671][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.02-15.10.38:671][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.02-15.10.38:671][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.02-15.10.38:684][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.02-15.10.38:684][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.02-15.10.38:714][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.02-15.10.38:719][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.02-15.10.38:721][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.02-15.10.38:721][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.02-15.10.38:721][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.02-15.10.38:722][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.02-15.10.38:722][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.02-15.10.38:722][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.02-15.10.38:723][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.02-15.10.38:723][  0]LogInit: FAudioDevice initialized.
+[2021.01.02-15.10.38:723][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.02-15.10.38:723][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.02-15.10.38:798][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/richa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.02-15.10.38:802][  0]LogInit: Texture streaming: Enabled
+[2021.01.02-15.10.38:811][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.02-15.10.38:814][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.02-15.10.38:814][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.02-15.10.38:816][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.02-15.10.38:853][  0]LogInit: Transaction tracking system initialized
+[2021.01.02-15.10.38:868][  0]BlueprintLog: New page: Editor Load
+[2021.01.02-15.10.38:919][  0]LocalizationService: Localization service is disabled
+[2021.01.02-15.10.38:936][  0]TimingProfiler: Initialize
+[2021.01.02-15.10.38:936][  0]TimingProfiler: OnSessionChanged
+[2021.01.02-15.10.38:936][  0]LoadingProfiler: Initialize
+[2021.01.02-15.10.38:936][  0]LoadingProfiler: OnSessionChanged
+[2021.01.02-15.10.38:936][  0]NetworkingProfiler: Initialize
+[2021.01.02-15.10.38:936][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.02-15.10.38:936][  0]MemoryProfiler: Initialize
+[2021.01.02-15.10.38:936][  0]MemoryProfiler: OnSessionChanged
+[2021.01.02-15.10.39:042][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.02-15.10.39:043][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.02-15.10.39:156][  0]LogFileCache: Scanning file cache for directory 'C:/Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/' took 0.06s
+[2021.01.02-15.10.39:300][  0]SourceControl: Source control is disabled
+[2021.01.02-15.10.39:300][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.488
+[2021.01.02-15.10.39:300][  0]Cmd: MAP LOAD FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.02-15.10.39:300][  0]LightingResults: New page: Lighting Build
+[2021.01.02-15.10.39:300][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.02-15.10.39:300][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.02-15.10.39:301][  0]MapCheck: New page: Map Check
+[2021.01.02-15.10.39:301][  0]LightingResults: New page: Lighting Build
+[2021.01.02-15.10.39:307][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.02-15.10.39:349][  0]LogBlueprint: Warning: [AssetLog] C:\Users\richa\Documents\GitHub\DungeonCrawler\DungeonCrawler\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2021.01.02-15.10.39:349][  0]LogBlueprint: Warning: [AssetLog] C:\Users\richa\Documents\GitHub\DungeonCrawler\DungeonCrawler\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2021.01.02-15.10.39:498][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.01.02-15.10.39:499][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.02-15.10.39:503][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.02-15.10.39:510][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.02-15.10.39:510][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.02-15.10.39:511][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,156ms to complete.
+[2021.01.02-15.10.39:511][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.211
+[2021.01.02-15.10.39:512][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.701
+[2021.01.02-15.10.39:664][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.02-15.10.39:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.02-15.10.39:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.02-15.10.39:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.02-15.10.39:685][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0069 seconds. Added 3637 classes and 874 folders.
+[2021.01.02-15.10.39:687][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.02-15.10.39:688][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.02-15.10.39:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.02-15.10.39:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2021.01.02-15.10.39:688][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.02-15.10.39:688][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:688][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.02-15.10.39:688][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.01.02-15.10.39:689][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.01.02-15.10.39:689][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.01.02-15.10.39:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.01.02-15.10.39:689][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.02-15.10.39:689][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:689][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.02-15.10.39:689][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.01.02-15.10.39:690][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.02-15.10.39:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.02-15.10.39:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.01.02-15.10.39:690][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.02-15.10.39:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.02-15.10.39:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.01.02-15.10.39:690][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.02-15.10.39:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.02-15.10.39:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.01.02-15.10.39:691][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.02-15.10.39:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.02-15.10.39:691][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.01.02-15.10.39:691][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.02-15.10.39:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:691][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.02-15.10.39:691][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.01.02-15.10.39:692][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.02-15.10.39:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.02-15.10.39:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.01.02-15.10.39:692][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.02-15.10.39:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.02-15.10.39:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.01.02-15.10.39:692][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.02-15.10.39:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.02-15.10.39:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.01.02-15.10.39:693][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.02-15.10.39:693][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:693][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.02-15.10.39:693][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.01.02-15.10.39:693][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.02-15.10.39:693][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:693][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.02-15.10.39:693][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.01.02-15.10.39:694][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.02-15.10.39:694][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:694][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.02-15.10.39:694][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.01.02-15.10.39:694][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.02-15.10.39:694][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:694][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.02-15.10.39:694][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.01.02-15.10.39:695][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.02-15.10.39:695][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:695][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.02-15.10.39:695][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.01.02-15.10.39:695][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.02-15.10.39:695][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:695][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.02-15.10.39:695][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.01.02-15.10.39:696][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.02-15.10.39:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.02-15.10.39:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.01.02-15.10.39:696][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.02-15.10.39:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.02-15.10.39:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.01.02-15.10.39:696][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.02-15.10.39:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.02-15.10.39:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.01.02-15.10.39:697][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.02-15.10.39:697][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:697][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.02-15.10.39:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.01.02-15.10.39:697][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.01.02-15.10.39:697][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:697][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.01.02-15.10.39:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.01.02-15.10.39:698][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.02-15.10.39:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.02-15.10.39:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.01.02-15.10.39:698][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.02-15.10.39:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.02-15.10.39:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.01.02-15.10.39:699][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.02-15.10.39:699][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.02-15.10.39:699][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.02-15.10.39:699][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.01.02-15.10.39:727][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.02-15.10.39:728][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.01.02-15.10.39:838][  0]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.02-15.10.39:839][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.02-15.10.39:842][  0]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.02-15.10.39:945][  0]LogRenderer: Reallocating scene render targets to support 1004x496 Format 10 NumSamples 1 (Frame:1).
+[2021.01.02-15.10.40:042][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.02-15.10.40:042][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.01.02-15.10.40:042][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.01.02-15.10.40:042][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.01.02-15.10.40:042][  0]LogLoad: (Engine Initialization) Total time: 7.23 seconds
+[2021.01.02-15.10.40:042][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.02-15.10.40:042][  0]LogInit: First time updating LLM stats...
+[2021.01.02-15.10.40:120][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.02-15.10.40:158][  1]LogAssetRegistry: Asset discovery search completed in 4.9630 seconds
+[2021.01.02-15.10.40:159][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.01.02-15.10.40:814][  3]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.02-15.10.43:135][ 10]LogSlate: Window 'Plugins' being destroyed
+[2021.01.02-15.10.43:140][ 10]LogSlate: Window 'Plugins' being destroyed
+[2021.01.02-15.10.43:140][ 10]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.01.02-15.50.31:890][950]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_Main/BP_BaseCharacter.BP_BaseCharacter_C:Stats'. Unknown structure.
+[2021.01.02-15.50.31:891][950]LogClass: Warning: Property Stats of Stats has a struct type mismatch (tag STRUCT_REINST_S_Stats_0 != prop FallbackStruct) in package:  ../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/BP_BaseCharacter.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.01.02-15.50.31:902][950]LogClass: Warning: Property Stats of Stats has a struct type mismatch (tag FallbackStruct != prop S_Stats) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.01.02-15.50.31:925][950]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/_Main/Interfaces/INT_PlayerCharacter.INT_PlayerCharacter_C:GetPlayerStats:PlayerStats'. Unknown structure.
+[2021.01.02-15.50.33:146][950]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.02-15.50.33:186][950]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/MainMenu/W_MainMenu.W_MainMenu
+[2021.01.02-15.50.33:229][950]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.01.02-15.50.34:382][950]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.02-15.50.45:153][387]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/MainMenu/W_MainMenuBorder.W_MainMenuBorder
+[2021.01.02-15.50.47:427][603]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.02-15.50.56:662][504]LogSlate: Took 0.002279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.01.02-15.51.29:332][772]BlueprintLog: New page: Compile W_MainMenuBorder
+[2021.01.02-15.51.29:422][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.01.02-15.51.29:857][810]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MainMenuBorder80FD75C243BCCAC4689F08904085882E.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MainMenuBorder.uasset'
+[2021.01.02-15.51.29:872][810]AssetCheck: New page: Asset Save: W_MainMenuBorder
+[2021.01.02-15.51.29:872][810]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MainMenuBorder.W_MainMenuBorder
+[2021.01.02-15.51.58:520][920]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/MainMenu/W_MultiplayerMenu.W_MultiplayerMenu
+[2021.01.02-15.52.19:590][193]LogSlate: Window 'W_MultiplayerMenu' being destroyed
+[2021.01.02-15.52.20:910][343]LogSlate: Window 'W_MultiplayerMenu' being destroyed
+[2021.01.02-15.52.22:309][490]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MultiplayerMenu341FF0E64DCB2F0E0FB3A289B58887F4.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MultiplayerMenu.uasset'
+[2021.01.02-15.52.22:321][490]AssetCheck: New page: Asset Save: W_MultiplayerMenu
+[2021.01.02-15.52.22:321][490]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MultiplayerMenu.W_MultiplayerMenu
+[2021.01.02-15.52.40:145][437]BlueprintLog: New page: Compile W_MultiplayerMenu
+[2021.01.02-15.52.40:196][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.01.02-15.52.40:526][468]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MultiplayerMenu8E78A9B64FB8FDDB41E318B5D52DC97F.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MultiplayerMenu.uasset'
+[2021.01.02-15.52.40:537][468]AssetCheck: New page: Asset Save: W_MultiplayerMenu
+[2021.01.02-15.52.40:537][468]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MultiplayerMenu.W_MultiplayerMenu
+[2021.01.02-15.53.44:231][226]BlueprintLog: New page: Compile W_MultiplayerMenu
+[2021.01.02-15.53.44:282][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.01.02-15.53.45:194][322]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MultiplayerMenu86AE912544DCECBA6ABE23842ACDECB4.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MultiplayerMenu.uasset'
+[2021.01.02-15.53.45:203][322]AssetCheck: New page: Asset Save: W_MultiplayerMenu
+[2021.01.02-15.53.45:203][322]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MultiplayerMenu.W_MultiplayerMenu
+[2021.01.02-15.54.19:711][168]BlueprintLog: New page: Compile W_MultiplayerMenu
+[2021.01.02-15.54.19:759][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.01.02-15.54.20:294][221]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MultiplayerMenu7DB151E24CB75B6FC36C24AF6E0CE352.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MultiplayerMenu.uasset'
+[2021.01.02-15.54.20:304][221]AssetCheck: New page: Asset Save: W_MultiplayerMenu
+[2021.01.02-15.54.20:304][221]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MultiplayerMenu.W_MultiplayerMenu
+[2021.01.02-15.54.33:293][769]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.02-15.55.01:612][ 76]BlueprintLog: New page: Compile W_MainMenuBorder
+[2021.01.02-15.55.01:671][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.01.02-15.55.01:988][102]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MainMenuBorderB9DC523E4F2C2B5A55C40899EA397A52.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MainMenuBorder.uasset'
+[2021.01.02-15.55.02:002][102]AssetCheck: New page: Asset Save: W_MainMenuBorder
+[2021.01.02-15.55.02:002][102]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MainMenuBorder.W_MainMenuBorder
+[2021.01.02-15.56.16:099][610]BlueprintLog: New page: Compile W_MainMenuBorder
+[2021.01.02-15.56.16:158][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.01.02-15.56.16:525][641]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MainMenuBorder0E1618AD4DDC230749D3B89A9ECDC32E.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MainMenuBorder.uasset'
+[2021.01.02-15.56.16:537][641]AssetCheck: New page: Asset Save: W_MainMenuBorder
+[2021.01.02-15.56.16:537][641]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MainMenuBorder.W_MainMenuBorder
+[2021.01.02-15.56.34:024][634]BlueprintLog: New page: Compile W_MainMenuBorder
+[2021.01.02-15.56.34:086][634]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.01.02-15.56.34:427][661]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MainMenuBorder21B378BE4409F44227FA7C8C47E7A3C0.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MainMenuBorder.uasset'
+[2021.01.02-15.56.34:440][661]AssetCheck: New page: Asset Save: W_MainMenuBorder
+[2021.01.02-15.56.34:440][661]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MainMenuBorder.W_MainMenuBorder
+[2021.01.02-15.56.58:777][790]BlueprintLog: New page: Compile W_MultiplayerMenu
+[2021.01.02-15.56.58:822][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.01.02-15.56.59:295][836]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MultiplayerMenuAA9876D849B5BAB11B59A6A9C708F017.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MultiplayerMenu.uasset'
+[2021.01.02-15.56.59:305][836]AssetCheck: New page: Asset Save: W_MultiplayerMenu
+[2021.01.02-15.56.59:305][836]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MultiplayerMenu.W_MultiplayerMenu
+[2021.01.02-15.57.00:877][994]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MainMenuBorder5A213182417E54D07C84E7A01C5B2FBD.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MainMenuBorder.uasset'
+[2021.01.02-15.57.00:891][994]AssetCheck: New page: Asset Save: W_MainMenuBorder
+[2021.01.02-15.57.00:891][994]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MainMenuBorder.W_MainMenuBorder
+[2021.01.02-15.59.52:076][920]BlueprintLog: New page: Compile W_MultiplayerMenu
+[2021.01.02-15.59.52:140][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.01.02-15.59.52:401][945]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MultiplayerMenuE24F49C149D0FDD26E88B3BF4CC91133.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MultiplayerMenu.uasset'
+[2021.01.02-15.59.52:412][945]AssetCheck: New page: Asset Save: W_MultiplayerMenu
+[2021.01.02-15.59.52:412][945]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MultiplayerMenu.W_MultiplayerMenu
+[2021.01.02-15.59.59:249][675]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MultiplayerMenuB46FDEA2490BAA73C0A3C8AD90186E66.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MultiplayerMenu.uasset'
+[2021.01.02-15.59.59:261][675]AssetCheck: New page: Asset Save: W_MultiplayerMenu
+[2021.01.02-15.59.59:261][675]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MultiplayerMenu.W_MultiplayerMenu
+[2021.01.02-16.01.36:911][372]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MainMenuBorder197A98884C0B8DA95AAA959F9DA3198F.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MainMenuBorder.uasset'
+[2021.01.02-16.01.36:924][372]AssetCheck: New page: Asset Save: W_MainMenuBorder
+[2021.01.02-16.01.36:924][372]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MainMenuBorder.W_MainMenuBorder
+[2021.01.02-16.02.08:834][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.01.02-16.02.08:835][ 15]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.038
+[2021.01.02-16.02.08:836][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Main/MainMenu/PC_MainMenu] ([1] browsable assets)...
+[2021.01.02-16.02.08:836][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/MainMenu/PC_MainMenu]
+[2021.01.02-16.02.08:871][ 15]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu_Auto1B76670D74E4B3CC61AA42EA354DCD75F.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Autosaves/Game/_Main/MainMenu/PC_MainMenu_Auto1.uasset'
+[2021.01.02-16.02.08:872][ 15]LogFileHelpers: Auto-saving content packages took 0.037
+[2021.01.02-16.02.47:263][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.02-16.02.48:487][380]LogSlate: Window 'Save Content' being destroyed
+[2021.01.02-16.02.48:502][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-16.02.48:537][380]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu5F593B124ABF559FD7319CB2FBA6D7E2.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-16.02.48:778][380]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2021.01.02-16.02.48:778][380]Cmd: MAP LOAD FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.02-16.02.48:778][380]LightingResults: New page: Lighting Build
+[2021.01.02-16.02.48:780][380]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.01.02-16.02.48:814][380]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.02-16.02.48:815][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.02-16.02.48:815][380]MapCheck: New page: Map Check
+[2021.01.02-16.02.48:815][380]LightingResults: New page: Lighting Build
+[2021.01.02-16.02.48:843][380]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.02-16.02.48:850][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.01.02-16.02.48:850][380]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.01.02-16.02.48:976][380]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.02-16.02.48:976][380]LogAIModule: Creating AISystem for world MainMenu
+[2021.01.02-16.02.49:006][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.01.02-16.02.49:018][380]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.02-16.02.49:019][380]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,104ms to complete.
+[2021.01.02-16.02.49:019][380]LogFileHelpers: Loading map 'MainMenu' took 0.241
+[2021.01.02-16.02.49:040][380]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-16.02.49:040][380]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-16.03.00:155][409]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.03.02:069][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.03.02:076][593]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_HostF4194B384B8E5042984AAEB18DF1942A.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.03.02:087][593]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.03.02:087][593]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.03.42:833][377]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.02-16.03.54:842][755]BlueprintLog: New page: Compile W_MultiplayerMenu
+[2021.01.02-16.03.54:893][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.01.02-16.03.55:219][785]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MultiplayerMenu125A89B342C8AABEFB0221A12156FBA4.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MultiplayerMenu.uasset'
+[2021.01.02-16.03.55:231][785]AssetCheck: New page: Asset Save: W_MultiplayerMenu
+[2021.01.02-16.03.55:231][785]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MultiplayerMenu.W_MultiplayerMenu
+[2021.01.02-16.04.26:346][481]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-16.04.48:951][139]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.04.48:994][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.01.02-16.04.49:353][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.04.49:360][174]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host2D7B2B1E48495615B2B4858A737919EF.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.04.49:371][174]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.04.49:371][174]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.04.58:205][210]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.04.58:257][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.01.02-16.04.58:686][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.04.58:693][254]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_HostEE167862416AEEB69F1FB0A783B60E5B.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.04.58:703][254]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.04.58:703][254]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.05.39:872][716]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-16.05.49:755][ 21]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-16.06.11:043][247]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.06.11:094][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.01.02-16.06.11:240][247]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2021.01.02-16.06.11:259][247]LogSlate: Took 0.017499 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.01.02-16.06.11:487][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.06.11:495][269]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host58506EFB4F182C7F2FF90C9DAA290BE1.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.06.11:505][269]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.06.11:505][269]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.07.03:944][460]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.07.03:996][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.01.02-16.07.04:404][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.07.04:413][493]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host294DB93B480E96BEF7E2A28E0892033E.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.07.04:421][493]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.07.04:422][493]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.07.40:860][780]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.07.40:912][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.01.02-16.07.41:238][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.07.41:246][808]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host848788114394675AE27E2DABE5B054A7.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.07.41:256][808]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.07.41:256][808]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.07.52:063][411]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-16.08.24:330][655]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-16.08.30:914][892]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.08.30:967][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.01.02-16.08.31:438][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.08.31:447][936]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host268A4B704F7F93706435FD9349461EAE.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.08.31:462][936]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.08.31:462][936]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.08.38:002][533]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.08.38:055][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.01.02-16.08.38:421][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.08.38:429][565]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host051A424E43AFE714C24D0897A73A9CD5.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.08.38:440][565]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.08.38:440][565]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.08.46:819][773]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.08.46:872][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.01.02-16.08.47:287][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.08.47:295][812]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_HostC9C344FA45DAA1784A3103BFAE1E2B2A.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.08.47:305][812]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.08.47:305][812]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.10.00:704][179]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.10.00:760][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.01.02-16.10.01:104][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.10.01:114][210]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host077C9AE945933B3EEA740BB1E81BEB24.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.10.01:131][210]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.10.01:131][210]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.10.23:519][750]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-16.10.30:485][568]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-16.10.44:623][209]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-16.11.05:522][801]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-16.11.06:386][900]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.11.06:439][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.01.02-16.11.06:837][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.11.06:847][936]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host049356E64E2D2EED68575B9F8571E7D0.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.11.06:859][936]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.11.06:859][936]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.11.17:222][621]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-16.11.22:998][295]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-16.11.24:009][415]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.11.24:062][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.01.02-16.11.24:487][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.11.24:497][451]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host058DD7C449E3F8F707A9D2953FA19FD7.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.11.24:511][451]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.11.24:511][451]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.11.34:736][387]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.01.02-16.11.39:176][890]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.11.39:231][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.01.02-16.11.39:554][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.11.39:563][923]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host7DD0B36540C4B98901A44095BD9CA5CF.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.11.39:573][923]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.11.39:573][923]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.11.45:560][619]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.02-16.11.55:193][727]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.11.55:247][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.01.02-16.11.55:505][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.11.55:515][753]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host4F26ACA64D5611894DA25CB4294B3E79.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.11.55:530][753]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.11.55:530][753]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.12.48:417][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.01.02-16.12.48:418][963]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.036
+[2021.01.02-16.12.48:418][963]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Main/MainMenu/W_Host] ([1] browsable assets)...
+[2021.01.02-16.12.48:418][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/MainMenu/W_Host]
+[2021.01.02-16.12.48:429][963]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host_Auto2D0E3C1F546F7225658AFF6B9BA28D756.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Autosaves/Game/_Main/MainMenu/W_Host_Auto2.uasset'
+[2021.01.02-16.12.48:430][963]LogFileHelpers: Auto-saving content packages took 0.012
+[2021.01.02-16.13.03:107][373]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.13.03:144][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.01.02-16.13.03:639][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.13.03:650][420]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_HostA88BA2CE4D5A3B15FBCD4DA4F4C03561.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.13.03:660][420]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.13.03:660][420]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.13.09:961][169]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.13.10:016][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.01.02-16.13.10:338][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.13.10:349][197]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host21E4916B4C7E7F26651779BC33C60E5A.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.13.10:359][197]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.13.10:360][197]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.13.14:636][579]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.13.14:690][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.01.02-16.13.15:038][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.13.15:049][608]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host4B72842C4FBC731E4CBF40A9C63CE81F.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.13.15:060][608]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.13.15:060][608]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.13.32:402][358]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.13.32:457][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.01.02-16.13.32:855][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.13.32:867][397]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host87A19FD24DBBFBF667CC8CB71548DECD.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.13.32:877][397]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.13.32:877][397]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.13.43:068][466]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.02-16.13.56:644][ 13]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/DungeonGameInstance.DungeonGameInstance
+[2021.01.02-16.14.04:028][817]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.02-16.14.22:464][763]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.02-16.14.33:971][ 18]LogMetaData: Removing '/Game/_Main/Interfaces/INT_GameInstance.SKEL_INT_GameInstance_C' ref from Metadata '/Game/_Main/Interfaces/NewInterface.PackageMetaData'
+[2021.01.02-16.14.33:971][ 18]LogMetaData: Removing '/Game/_Main/Interfaces/INT_GameInstance.INT_GameInstance_C' ref from Metadata '/Game/_Main/Interfaces/NewInterface.PackageMetaData'
+[2021.01.02-16.14.33:994][ 18]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/INT_GameInstance083DDE024C8D67C84430B2B07B8035A4.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/Interfaces/INT_GameInstance.uasset'
+[2021.01.02-16.14.34:121][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.01.02-16.14.34:177][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.01.02-16.14.34:216][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.01.02-16.14.34:270][ 18]AssetCheck: New page: Asset Save: INT_GameInstance
+[2021.01.02-16.14.34:270][ 18]LogContentValidation: Display: Validating Blueprint /Game/_Main/Interfaces/INT_GameInstance.INT_GameInstance
+[2021.01.02-16.14.35:739][189]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Interfaces/INT_GameInstance.INT_GameInstance
+[2021.01.02-16.14.40:560][743]BlueprintLog: New page: Compile INT_GameInstance
+[2021.01.02-16.14.40:603][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.01.02-16.14.41:110][799]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/INT_GameInstanceE991228341A3FD6496EBE0AD28B56FE8.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/Interfaces/INT_GameInstance.uasset'
+[2021.01.02-16.14.41:122][799]AssetCheck: New page: Asset Save: INT_GameInstance
+[2021.01.02-16.14.41:122][799]LogContentValidation: Display: Validating Blueprint /Game/_Main/Interfaces/INT_GameInstance.INT_GameInstance
+[2021.01.02-16.15.06:906][457]BlueprintLog: New page: Compile INT_GameInstance
+[2021.01.02-16.15.06:952][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.01.02-16.15.07:544][523]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/INT_GameInstanceC49764FE46A9C5AD832DA18B8D5FCE65.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/Interfaces/INT_GameInstance.uasset'
+[2021.01.02-16.15.07:556][523]AssetCheck: New page: Asset Save: INT_GameInstance
+[2021.01.02-16.15.07:556][523]LogContentValidation: Display: Validating Blueprint /Game/_Main/Interfaces/INT_GameInstance.INT_GameInstance
+[2021.01.02-16.15.19:316][587]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.01.02-16.15.21:237][787]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.01.02-16.15.21:240][787]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.01.02-16.15.31:786][899]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.15.31:788][899]LogBlueprint: Warning: [AssetLog] C:\Users\richa\Documents\GitHub\DungeonCrawler\DungeonCrawler\Content\_Main\MainMenu\W_Host.uasset: [Compiler] Input pin  Selected Class  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2021.01.02-16.15.31:789][899]LogBlueprint: Warning: [AssetLog] C:\Users\richa\Documents\GitHub\DungeonCrawler\DungeonCrawler\Content\_Main\MainMenu\W_Host.uasset: [Compiler] Input pin  Selected Class  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2021.01.02-16.15.31:789][899]LogBlueprint: Error: [AssetLog] C:\Users\richa\Documents\GitHub\DungeonCrawler\DungeonCrawler\Content\_Main\MainMenu\W_Host.uasset: [Compiler] Failed to resolve term passed into  Selected Class
+[2021.01.02-16.15.31:789][899]LogBlueprint: Error: [AssetLog] C:\Users\richa\Documents\GitHub\DungeonCrawler\DungeonCrawler\Content\_Main\MainMenu\W_Host.uasset: [Compiler] Failed to resolve term passed into  Selected Class
+[2021.01.02-16.15.31:835][899]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.01.02-16.15.32:172][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.15.32:183][933]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host7E4C339E4410CD76B01BF59B6299A53D.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.15.32:197][933]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.15.32:198][933]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.15.38:768][670]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.02-16.15.49:555][921]BlueprintLog: New page: Compile W_Host
+[2021.01.02-16.15.49:621][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.01.02-16.15.50:205][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-16.15.50:216][981]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_HostF45F88214FB0CD371094E5BA358A7B87.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-16.15.50:231][981]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-16.15.50:231][981]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-16.16.01:111][454]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.02-16.16.08:114][157]BlueprintLog: New page: Compile DungeonGameInstance
+[2021.01.02-16.16.08:116][157]LogBlueprint: Error: [AssetLog] C:\Users\richa\Documents\GitHub\DungeonCrawler\DungeonCrawler\Content\_Main\DungeonGameInstance.uasset: [Compiler] Found more than one function with the same name StoreSelectedClass; second occurance at  <None>
+[2021.01.02-16.16.08:162][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.01.02-16.16.08:472][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/DungeonGameInstance" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset" SILENT=true
+[2021.01.02-16.16.08:479][187]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/DungeonGameInstanceE289BF03437E0EB763B13CB618B34161.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset'
+[2021.01.02-16.16.08:491][187]AssetCheck: New page: Asset Save: DungeonGameInstance
+[2021.01.02-16.16.08:492][187]LogContentValidation: Display: Validating Blueprint /Game/_Main/DungeonGameInstance.DungeonGameInstance
+[2021.01.02-16.16.29:955][467]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-16.17.06:285][102]BlueprintLog: New page: Compile DungeonGameInstance
+[2021.01.02-16.17.06:340][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.01.02-16.17.06:639][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/DungeonGameInstance" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset" SILENT=true
+[2021.01.02-16.17.06:647][134]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/DungeonGameInstanceDEB53EE74442688264DF12B4F3A60049.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset'
+[2021.01.02-16.17.06:660][134]AssetCheck: New page: Asset Save: DungeonGameInstance
+[2021.01.02-16.17.06:660][134]LogContentValidation: Display: Validating Blueprint /Game/_Main/DungeonGameInstance.DungeonGameInstance
+[2021.01.02-16.17.30:232][660]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-16.17.30:312][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.01.02-16.17.30:640][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-16.17.30:674][691]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenuD38BB5DF4B7F1615ECAEB1A4B0152600.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-16.17.30:694][691]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-16.17.30:694][691]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-16.17.38:367][603]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.01.02-16.17.38:367][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.02-16.18.37:887][590]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Interfaces/INT_GameInstance.INT_GameInstance
+[2021.01.02-16.18.53:460][244]BlueprintLog: New page: Compile INT_GameInstance
+[2021.01.02-16.18.53:519][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.01.02-16.18.53:962][290]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/INT_GameInstance5AB8C5904672BE3FD5D42FAE4A46C19E.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/Interfaces/INT_GameInstance.uasset'
+[2021.01.02-16.18.53:974][290]AssetCheck: New page: Asset Save: INT_GameInstance
+[2021.01.02-16.18.53:974][290]LogContentValidation: Display: Validating Blueprint /Game/_Main/Interfaces/INT_GameInstance.INT_GameInstance
+[2021.01.02-16.19.24:873][574]BlueprintLog: New page: Compile DungeonGameInstance
+[2021.01.02-16.19.24:923][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.01.02-16.19.25:240][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/DungeonGameInstance" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset" SILENT=true
+[2021.01.02-16.19.25:248][606]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/DungeonGameInstance476CA326405E8600378792836B4F2D47.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset'
+[2021.01.02-16.19.25:261][606]AssetCheck: New page: Asset Save: DungeonGameInstance
+[2021.01.02-16.19.25:261][606]LogContentValidation: Display: Validating Blueprint /Game/_Main/DungeonGameInstance.DungeonGameInstance
+[2021.01.02-17.17.50:253][541]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.01.02-17.17.50:259][541]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.01.02-17.17.59:664][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/DungeonGameInstance" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset" SILENT=true
+[2021.01.02-17.17.59:677][493]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/DungeonGameInstance0BE16C01416ECD727004BD9808240E8D.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset'
+[2021.01.02-17.17.59:743][493]AssetCheck: New page: Asset Save: DungeonGameInstance
+[2021.01.02-17.17.59:743][493]LogContentValidation: Display: Validating Blueprint /Game/_Main/DungeonGameInstance.DungeonGameInstance
+[2021.01.02-17.18.36:783][228]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.18.36:931][228]LogUObjectHash: Compacting FUObjectHashTables data took   9.21ms
+[2021.01.02-17.18.37:213][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.18.37:254][253]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenuC95B1F5548ED8403872BD4ADE8D23F53.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.18.37:269][253]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.18.37:269][253]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.19.10:602][141]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.19.10:684][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.01.02-17.19.10:996][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.19.11:032][171]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu69FB83D54DE48DA8CC3BF295D0A970FE.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.19.11:047][171]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.19.11:047][171]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.19.32:218][777]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.19.32:299][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.01.02-17.19.32:779][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.19.32:817][826]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenuCD63C2D04B03727695E3E3B959C4A6C4.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.19.32:830][826]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.19.32:831][826]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.23.11:536][496]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.23.11:620][496]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.01.02-17.23.11:914][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.23.11:952][522]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu1361CC034B9E6D781A90B09CE38DD43F.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.23.11:965][522]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.23.11:965][522]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.23.49:161][505]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.23.49:243][505]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.01.02-17.23.49:614][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.23.49:651][540]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu1858A39F4CD94C2EED408FBD5007A123.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.23.49:666][540]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.23.49:666][540]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.24.33:435][732]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.24.33:518][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.01.02-17.24.33:879][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.24.33:918][768]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenuBC2A4FA741A58AA76F48A4ADDA5164FE.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.24.33:932][768]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.24.33:932][768]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.25.02:377][501]BlueprintLog: New page: Compile INT_GameInstance
+[2021.01.02-17.25.02:436][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.01.02-17.25.02:787][535]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/INT_GameInstance9B923E624C2DE4AA48BC39B759619D14.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/Interfaces/INT_GameInstance.uasset'
+[2021.01.02-17.25.02:798][535]AssetCheck: New page: Asset Save: INT_GameInstance
+[2021.01.02-17.25.02:798][535]LogContentValidation: Display: Validating Blueprint /Game/_Main/Interfaces/INT_GameInstance.INT_GameInstance
+[2021.01.02-17.25.06:447][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/DungeonGameInstance" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset" SILENT=true
+[2021.01.02-17.25.06:455][768]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/DungeonGameInstanceA7A8D0CE4FB83746E25B37AC517A740E.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset'
+[2021.01.02-17.25.06:466][768]AssetCheck: New page: Asset Save: DungeonGameInstance
+[2021.01.02-17.25.06:466][768]LogContentValidation: Display: Validating Blueprint /Game/_Main/DungeonGameInstance.DungeonGameInstance
+[2021.01.02-17.25.19:654][  1]BlueprintLog: New page: Compile DungeonGameInstance
+[2021.01.02-17.25.19:706][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.01.02-17.25.19:980][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/DungeonGameInstance" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset" SILENT=true
+[2021.01.02-17.25.19:988][ 29]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/DungeonGameInstanceAB081AAE42FA44ACD7A3B6878AA76FA0.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset'
+[2021.01.02-17.25.20:001][ 29]AssetCheck: New page: Asset Save: DungeonGameInstance
+[2021.01.02-17.25.20:001][ 29]LogContentValidation: Display: Validating Blueprint /Game/_Main/DungeonGameInstance.DungeonGameInstance
+[2021.01.02-17.26.08:929][207]BlueprintLog: New page: Compile W_Host
+[2021.01.02-17.26.08:986][207]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.01.02-17.26.09:298][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.26.09:313][238]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_HostF4F6B76F484725ABF10580BC5E2CF3EB.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.26.09:327][238]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.26.09:327][238]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.26.14:873][677]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.26.14:958][677]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.01.02-17.26.15:231][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.26.15:267][702]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu71B04C3242D901001819A7B85BD1F205.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.26.15:282][702]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.26.15:282][702]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.29.18:494][254]BlueprintLog: New page: Compile W_Host
+[2021.01.02-17.29.18:558][254]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.01.02-17.29.18:964][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.29.18:978][292]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host1B3281E9458280D5AD3FFEAB68B226E6.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.29.18:989][292]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.29.18:989][292]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.30.09:887][941]BlueprintLog: New page: Compile W_Host
+[2021.01.02-17.30.09:962][941]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.01.02-17.30.10:499][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.30.10:514][991]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host3D8D5A804301C05885D9D1A8581A67CC.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.30.10:525][991]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.30.10:525][991]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.30.26:000][329]BlueprintLog: New page: Compile W_Host
+[2021.01.02-17.30.26:075][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.01.02-17.30.26:415][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.30.26:429][363]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host009DE5F04D7D1A3C30A73BAF4E3B4444.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.30.26:441][363]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.30.26:441][363]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.31.30:098][590]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.31.30:182][590]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.01.02-17.31.30:466][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.31.30:503][616]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu8D1A84F840A414812562398E29D31213.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.31.30:517][616]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.31.30:517][616]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.31.32:712][860]BlueprintLog: New page: Compile W_Host
+[2021.01.02-17.31.32:766][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.01.02-17.31.33:181][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.31.33:196][903]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host8691586543B9667F0BCAECA791A94704.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.31.33:209][903]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.31.33:209][903]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.31.48:788][595]BlueprintLog: New page: Compile W_Host
+[2021.01.02-17.31.48:864][595]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.01.02-17.31.49:181][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.31.49:197][626]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host5CC7CFD44C1DB761C64922AB98523B38.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.31.49:212][626]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.31.49:212][626]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.32.34:537][790]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.32.34:631][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.01.02-17.32.34:849][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.32.34:889][809]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenuAF1F481C4BBD3DF60414BFB5F454F16D.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.32.34:901][809]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.32.34:901][809]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.33.00:409][837]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.33.00:494][837]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.01.02-17.33.00:815][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.33.00:854][868]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu430B8733400C4757D89128BBF91B9D1C.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.33.00:870][868]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.33.00:870][868]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.33.15:013][536]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.33.15:098][536]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.01.02-17.33.15:414][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.33.15:454][564]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu05DB21F94D63C71968325796AFD6C8A1.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.33.15:468][564]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.33.15:468][564]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.34.33:947][413]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.34.34:034][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.01.02-17.34.34:382][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.34.34:422][445]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenuC11B22A14207225734A586A6F8C9174F.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.34.34:438][445]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.34.34:438][445]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.34.40:772][178]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.34.40:856][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.01.02-17.34.41:366][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.34.41:406][228]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu9DF317E444E3F47BAE9D1CB87F691147.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.34.41:421][228]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.34.41:421][228]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.35.34:971][550]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.35.35:055][550]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.01.02-17.35.35:382][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.35.35:422][581]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenuCDBD0D2B4E5B478D754A2FAC6A990263.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.35.35:437][581]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.35.35:437][581]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.36.05:081][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.36.05:098][837]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_HostC457903A46F81A526FC4DC8C2CECC996.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.36.05:110][837]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.36.05:110][837]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.36.09:995][393]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/PC_DungeonController.PC_DungeonController
+[2021.01.02-17.36.50:870][569]BlueprintLog: New page: Compile INT_GameInstance
+[2021.01.02-17.36.50:943][569]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.01.02-17.36.51:356][609]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/INT_GameInstanceE8481A934693FF563E7A1386EDDDEFE6.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/Interfaces/INT_GameInstance.uasset'
+[2021.01.02-17.36.51:368][609]AssetCheck: New page: Asset Save: INT_GameInstance
+[2021.01.02-17.36.51:368][609]LogContentValidation: Display: Validating Blueprint /Game/_Main/Interfaces/INT_GameInstance.INT_GameInstance
+[2021.01.02-17.36.58:102][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/DungeonGameInstance" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset" SILENT=true
+[2021.01.02-17.36.58:111][ 51]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/DungeonGameInstance4965E7D84E4441832E5BC4B161592126.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset'
+[2021.01.02-17.36.58:122][ 51]AssetCheck: New page: Asset Save: DungeonGameInstance
+[2021.01.02-17.36.58:122][ 51]LogContentValidation: Display: Validating Blueprint /Game/_Main/DungeonGameInstance.DungeonGameInstance
+[2021.01.02-17.37.11:845][353]BlueprintLog: New page: Compile DungeonGameInstance
+[2021.01.02-17.37.11:914][353]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.01.02-17.37.20:781][186]BlueprintLog: New page: Compile DungeonGameInstance
+[2021.01.02-17.37.20:837][186]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.01.02-17.37.21:282][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/DungeonGameInstance" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset" SILENT=true
+[2021.01.02-17.37.21:291][232]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/DungeonGameInstanceFA674F7F403EDABBA6DE96A39443FC6C.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/DungeonGameInstance.uasset'
+[2021.01.02-17.37.21:306][232]AssetCheck: New page: Asset Save: DungeonGameInstance
+[2021.01.02-17.37.21:306][232]LogContentValidation: Display: Validating Blueprint /Game/_Main/DungeonGameInstance.DungeonGameInstance
+[2021.01.02-17.37.54:591][889]BlueprintLog: New page: Compile PC_DungeonController
+[2021.01.02-17.37.54:677][889]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.01.02-17.37.54:933][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/PC_DungeonController" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/PC_DungeonController.uasset" SILENT=true
+[2021.01.02-17.37.54:972][908]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_DungeonControllerDC59AA5F46D9DF0BC457FF901AB81050.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/PC_DungeonController.uasset'
+[2021.01.02-17.37.54:987][908]AssetCheck: New page: Asset Save: PC_DungeonController
+[2021.01.02-17.37.54:987][908]LogContentValidation: Display: Validating Blueprint /Game/_Main/PC_DungeonController.PC_DungeonController
+[2021.01.02-17.38.39:980][508]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.01.02-17.38.39:981][508]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.051
+[2021.01.02-17.38.39:981][508]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Main/MainMenu/PC_MainMenu] ([1] browsable assets)...
+[2021.01.02-17.38.39:981][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/MainMenu/PC_MainMenu]
+[2021.01.02-17.38.40:021][508]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu_Auto3651822AF4DF354F810F7308A95E2F714.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Autosaves/Game/_Main/MainMenu/PC_MainMenu_Auto3.uasset'
+[2021.01.02-17.38.40:022][508]LogFileHelpers: Auto-saving content packages took 0.042
+[2021.01.02-17.38.51:363][585]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.38.51:448][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.01.02-17.38.51:733][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.38.51:774][611]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu58885B9A4208014269A1C2AD3CEA2076.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.38.51:789][611]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.38.51:789][611]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.38.56:041][ 88]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/GM_DungeonGameMode.GM_DungeonGameMode
+[2021.01.02-17.39.19:345][248]BlueprintLog: New page: Compile GM_DungeonGameMode
+[2021.01.02-17.39.19:426][248]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.01.02-17.39.20:066][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/GM_DungeonGameMode" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/GM_DungeonGameMode.uasset" SILENT=true
+[2021.01.02-17.39.20:078][317]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/GM_DungeonGameModeF1ECBE3843D053E7976600A08D5740C0.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/GM_DungeonGameMode.uasset'
+[2021.01.02-17.39.20:090][317]AssetCheck: New page: Asset Save: GM_DungeonGameMode
+[2021.01.02-17.39.20:090][317]LogContentValidation: Display: Validating Blueprint /Game/_Main/GM_DungeonGameMode.GM_DungeonGameMode
+[2021.01.02-17.40.46:686][350]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.02-17.40.52:029][959]BlueprintLog: New page: Compile W_Host
+[2021.01.02-17.40.52:115][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.01.02-17.40.52:516][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.40.52:533][997]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_HostA9A1A61B4314BF0DF37CCF89F9B4F8AF.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.40.52:548][997]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.40.52:548][997]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.43.03:531][313]BlueprintLog: New page: Compile W_Host
+[2021.01.02-17.43.03:619][313]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.01.02-17.43.03:900][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.43.03:917][340]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_HostA06262484089BF144DB370BBF2AA93A8.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.43.03:930][340]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.43.03:930][340]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.44.33:013][ 34]BlueprintLog: New page: Compile W_Host
+[2021.01.02-17.44.33:105][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.01.02-17.44.33:483][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.44.33:500][ 57]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host0382BEE34FD70BAA7DE39DB06A26CF92.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.44.33:513][ 57]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.44.33:513][ 57]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.44.44:475][316]BlueprintLog: New page: Compile W_Host
+[2021.01.02-17.44.44:565][316]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.01.02-17.44.44:851][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.44.44:868][343]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_Host0855B91F45422AFC5786589447C19EE1.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.44.44:881][343]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.44.44:881][343]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.44.55:655][493]BlueprintLog: New page: Compile W_Host
+[2021.01.02-17.44.55:741][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.01.02-17.44.56:034][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_Host" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset" SILENT=true
+[2021.01.02-17.44.56:052][515]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_HostF0B4E65943238A181EAFD6BD57441204.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_Host.uasset'
+[2021.01.02-17.44.56:069][515]AssetCheck: New page: Asset Save: W_Host
+[2021.01.02-17.44.56:069][515]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_Host.W_Host
+[2021.01.02-17.47.46:364][228]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.47.46:469][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.01.02-17.47.47:034][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.47.47:077][280]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenu07160BDA4D7BC428B29A54A9D4C13868.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.47.47:093][280]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.47.47:093][280]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.48.24:256][ 43]BlueprintLog: New page: Compile W_MultiplayerMenu
+[2021.01.02-17.48.24:318][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.01.02-17.48.24:650][ 70]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MultiplayerMenu34185A9D41E92DE2FDD939B0354A9DF7.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MultiplayerMenu.uasset'
+[2021.01.02-17.48.24:666][ 70]AssetCheck: New page: Asset Save: W_MultiplayerMenu
+[2021.01.02-17.48.24:667][ 70]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MultiplayerMenu.W_MultiplayerMenu
+[2021.01.02-17.48.35:377][902]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.01.02-17.48.35:393][902]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/MainMenuC8E6B2794847D65C08B1E0A88CAB5D62.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/Maps/MainMenu.umap'
+[2021.01.02-17.48.35:434][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu_BuiltData" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2021.01.02-17.48.35:472][902]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/MainMenu_BuiltDataC3AF79774530C28FFDBF42AAE6BC67A0.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/Maps/MainMenu_BuiltData.uasset'
+[2021.01.02-17.48.35:485][902]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.02-17.48.35:485][902]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.01.02-17.48.35:485][902]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMenu_BuiltData.MainMenu_BuiltData
+[2021.01.02-17.48.38:106][167]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.48.54:675][ 68]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-17.49.01:706][881]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.49.01:764][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.01.02-17.49.02:085][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.49.02:092][909]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIP45C183454B20325C88D437933C56AFFA.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.49.02:108][909]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.49.02:108][909]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.49.10:351][861]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.49.10:428][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.01.02-17.49.10:800][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.49.10:807][895]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIPF1299B9942B6E0270EDF05ADDAED2ED1.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.49.10:819][895]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.49.10:819][895]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.49.52:489][349]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.49.52:571][349]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.01.02-17.49.52:934][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.49.52:942][378]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIP1648DB6A47743A07C9C96EA6FE0DB5C8.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.49.52:956][378]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.49.52:956][378]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.49.59:824][185]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-17.50.00:779][294]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.50.00:859][294]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.01.02-17.50.01:184][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.50.01:191][323]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIP7C3EA55843190B1E859573B9BEB7120D.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.50.01:203][323]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.50.01:203][323]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.50.42:764][147]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-17.51.13:187][ 94]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-17.52.01:715][625]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.52.01:797][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.01.02-17.52.02:285][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.52.02:294][659]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIPFAE23A794AA7BEDCF0A4B9A6FA3CBDB6.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.52.02:308][659]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.52.02:308][659]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.52.57:615][285]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.52.57:696][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.01.02-17.52.58:085][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.52.58:094][317]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIPE35BAB59451E24E21664FAADF4D8793F.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.52.58:107][317]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.52.58:107][317]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.53.13:366][139]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-17.53.38:053][116]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-17.53.48:546][139]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-17.53.49:747][269]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.53.49:827][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.01.02-17.53.50:119][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.53.50:128][292]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIP4BA9741E42BBA6329DC3ACB7B09CEBC1.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.53.50:141][292]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.53.50:141][292]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.54.11:182][278]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.54.11:261][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.01.02-17.54.11:601][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.54.11:611][308]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIP7F57AAC64EFA168F0D3BE7AE86F43BBE.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.54.11:622][308]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.54.11:622][308]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.54.57:747][739]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.54.57:827][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.01.02-17.54.58:485][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.54.58:494][806]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIPEEDFF62242BD2F302F5A2A9F548AAEED.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.54.58:509][806]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.54.58:509][806]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.55.19:031][976]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.55.19:114][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.01.02-17.55.19:418][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.55.19:428][  2]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIPB3BBA27B4F9124E20E79B3BA724D900C.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.55.19:441][  2]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.55.19:441][  2]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.55.48:493][464]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.55.48:577][464]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.01.02-17.55.48:885][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.55.48:895][496]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIP130EEEFD4D765FD0CCDD6C826E15B24C.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.55.48:909][496]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.55.48:909][496]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.56.07:590][390]BlueprintLog: New page: Compile PC_MainMenu
+[2021.01.02-17.56.07:684][390]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.01.02-17.56.08:101][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/PC_MainMenu" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset" SILENT=true
+[2021.01.02-17.56.08:143][430]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_MainMenuF47E014B4856540C434644A9CCF75CBC.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/PC_MainMenu.uasset'
+[2021.01.02-17.56.08:156][430]AssetCheck: New page: Asset Save: PC_MainMenu
+[2021.01.02-17.56.08:156][430]LogContentValidation: Display: Validating Blueprint /Game/_Main/MainMenu/PC_MainMenu.PC_MainMenu
+[2021.01.02-17.56.43:490][408]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.56.43:546][408]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.01.02-17.56.43:836][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.56.43:849][437]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIP1766B6604119B8924F96F1918A7B074C.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.56.43:865][437]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.56.43:865][437]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.57.11:782][458]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.57.11:866][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.01.02-17.57.12:219][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.57.12:231][492]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIP000C5026417EB2186081FF942708587C.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.57.12:245][492]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.57.12:245][492]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-17.57.25:216][ 22]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.02-17.57.27:357][250]BlueprintLog: New page: Compile W_MultiplayerMenu
+[2021.01.02-17.57.27:419][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.01.02-17.57.27:885][296]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_MultiplayerMenuE762029C4190F229BD65BC87B75CFA94.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_MultiplayerMenu.uasset'
+[2021.01.02-17.57.27:900][296]AssetCheck: New page: Asset Save: W_MultiplayerMenu
+[2021.01.02-17.57.27:900][296]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_MultiplayerMenu.W_MultiplayerMenu
+[2021.01.02-17.57.55:599][ 14]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-17.57.59:260][428]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.02-17.58.35:700][827]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.01.02-17.58.35:701][827]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.057
+[2021.01.02-17.58.35:701][827]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Main/PC_DungeonController] ([1] browsable assets)...
+[2021.01.02-17.58.35:701][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/PC_DungeonController]
+[2021.01.02-17.58.35:739][827]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/PC_DungeonController_Auto4ECB8237344AD1DDB77A927B5F801C575.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Autosaves/Game/_Main/PC_DungeonController_Auto4.uasset'
+[2021.01.02-17.58.35:740][827]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_Main/MainMenu/W_JoinIP] ([1] browsable assets)...
+[2021.01.02-17.58.35:740][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/MainMenu/W_JoinIP]
+[2021.01.02-17.58.35:751][827]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIP_Auto4F0617CA84200D71723E990ADA7842370.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/Autosaves/Game/_Main/MainMenu/W_JoinIP_Auto4.uasset'
+[2021.01.02-17.58.35:752][827]LogFileHelpers: Auto-saving content packages took 0.051
+[2021.01.02-17.59.20:857][962]BlueprintLog: New page: Compile W_JoinIP
+[2021.01.02-17.59.20:921][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.01.02-17.59.21:835][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_JoinIP" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset" SILENT=true
+[2021.01.02-17.59.21:848][ 44]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_JoinIP3EACF7B44B4EE997D22223B9D8FE8A70.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_JoinIP.uasset'
+[2021.01.02-17.59.21:859][ 44]AssetCheck: New page: Asset Save: W_JoinIP
+[2021.01.02-17.59.21:859][ 44]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_JoinIP.W_JoinIP
+[2021.01.02-18.01.26:340][901]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/MainMenu/W_ServerSlot.W_ServerSlot
+[2021.01.02-18.02.26:271][962]BlueprintLog: New page: Compile W_ServerSlot
+[2021.01.02-18.02.26:338][962]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.01.02-18.02.26:603][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_ServerSlot" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_ServerSlot.uasset" SILENT=true
+[2021.01.02-18.02.26:609][983]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_ServerSlotCB430314444312C115EBAEA339BECF14.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_ServerSlot.uasset'
+[2021.01.02-18.02.26:623][983]AssetCheck: New page: Asset Save: W_ServerSlot
+[2021.01.02-18.02.26:623][983]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_ServerSlot.W_ServerSlot
+[2021.01.02-18.02.40:029][405]BlueprintLog: New page: Compile W_ServerSlot
+[2021.01.02-18.02.40:110][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.01.02-18.02.40:752][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_ServerSlot" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_ServerSlot.uasset" SILENT=true
+[2021.01.02-18.02.40:759][472]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_ServerSlotE3D0401748311D44E1F62688FA490CFD.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_ServerSlot.uasset'
+[2021.01.02-18.02.40:772][472]AssetCheck: New page: Asset Save: W_ServerSlot
+[2021.01.02-18.02.40:772][472]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_ServerSlot.W_ServerSlot
+[2021.01.02-18.03.18:330][643]BlueprintLog: New page: Compile W_ServerSlot
+[2021.01.02-18.03.18:413][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.01.02-18.03.18:853][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/MainMenu/W_ServerSlot" FILE="../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_ServerSlot.uasset" SILENT=true
+[2021.01.02-18.03.18:861][682]LogSavePackage: Moving '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Saved/W_ServerSlot4E84CA2B49E460D1042EC0A0D3D5F717.tmp' to '../../../../../../Users/richa/Documents/GitHub/DungeonCrawler/DungeonCrawler/Content/_Main/MainMenu/W_ServerSlot.uasset'
+[2021.01.02-18.03.18:874][682]AssetCheck: New page: Asset Save: W_ServerSlot
+[2021.01.02-18.03.18:874][682]LogContentValidation: Display: Validating WidgetBlueprint /Game/_Main/MainMenu/W_ServerSlot.W_ServerSlot
+[2021.01.02-18.03.52:447][716]LogWindows: Error: === Critical error: ===
+[2021.01.02-18.03.52:447][716]LogWindows: Error: 
+[2021.01.02-18.03.52:447][716]LogWindows: Error: Fatal error!
+[2021.01.02-18.03.52:447][716]LogWindows: Error: 
+[2021.01.02-18.03.52:447][716]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000000000000010
+[2021.01.02-18.03.52:447][716]LogWindows: Error: 
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe33e61971 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe33e6149e UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe33e61086 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe33e18576 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe514c33b9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe514fc65a UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe33e5666c UE4Editor-UMGEditor.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe514925b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe514fe399 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe514f2236 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe9895b948 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe98949197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe9895e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe98944310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffeaeb3e858 USER32.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffeaeb3e299 USER32.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffe9895f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ff62f3687e7 UE4Editor.exe!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ff62f38113c UE4Editor.exe!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ff62f38121a UE4Editor.exe!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ff62f39527d UE4Editor.exe!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ff62f397faa UE4Editor.exe!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffeafdb7034 KERNEL32.DLL!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: [Callstack] 0x00007ffeb009d0d1 ntdll.dll!UnknownFunction []
+[2021.01.02-18.03.52:447][716]LogWindows: Error: 
+[2021.01.02-18.03.52:454][716]LogExit: Executing StaticShutdownAfterError
+[2021.01.02-18.03.52:476][716]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.01.02-18.03.52:476][716]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.01.02-18.03.52:489][716]Log file closed, 01/02/21 19:03:52
